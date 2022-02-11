@@ -1,0 +1,6 @@
+D:\Documentos\Visual_Proyects\Practica1 Progra3\Practica1 Progra3\bin\Debug\Practica1 Progra3.exe.config
+D:\Documentos\Visual_Proyects\Practica1 Progra3\Practica1 Progra3\bin\Debug\Practica1 Progra3.exe
+D:\Documentos\Visual_Proyects\Practica1 Progra3\Practica1 Progra3\bin\Debug\Practica1 Progra3.pdb
+D:\Documentos\Visual_Proyects\Practica1 Progra3\Practica1 Progra3\obj\Debug\Practica1 Progra3.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual_Proyects\Practica1 Progra3\Practica1 Progra3\obj\Debug\Practica1 Progra3.exe
+D:\Documentos\Visual_Proyects\Practica1 Progra3\Practica1 Progra3\obj\Debug\Practica1 Progra3.pdb
